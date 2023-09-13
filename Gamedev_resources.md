@@ -1,8 +1,7 @@
 UNITY: {{
     * [C# ](  https://www.youtube.com/watch?v=SuLiu5AK9Ps )  }
 * [Youtube channel ](https://www.youtube.com/@CodeMonkeyUnity   )
-* 
-[If u like reading heres the doc](https://docs.unity.com/)
+* [If u like reading heres the doc](https://docs.unity.com/)
 
 { Basics sikhne ke baad yha se references le skte ho :
 * [2D Splatter Effects Using the Stencil Buffer](http://nielson.dev/2015/12/splatter-effects-in-unity-using-the-stencil-buffer) 
