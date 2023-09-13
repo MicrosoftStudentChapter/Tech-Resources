@@ -15,7 +15,14 @@ UNITY: {{
 * [Ray Wenderlich's Tutorials](http://www.raywenderlich.com/category/unity) 
 * [Unity in HoloLens](https://developer.microsoft.com/en-us/windows/holographic/unity_development_overview)
 * [Unity Virtual Reality](http://docs.unity3d.com/Manual/VROverview.html) 
-* [Unity Tips](https://unity3d.com/learn/tutorials/topics/tips) 
+* [Unity Tips](https://unity3d.com/learn/tutorials/topics/tips)
+
+* {FREE ASSETS:
+- [OpenGameArt.org](https://opengameart.org)
+- [Kenney](https://www.kenney.nl) - 3D Models and Sprites.
+- [Textures.com](https://www.textures.com/)
+- [Mixamo](https://www.mixamo.com) - 3D Animations.
+- [Ansimuz](https://ansimuz.itch.io/) - Pixel Art.}
 }}
 
 Pygames{
