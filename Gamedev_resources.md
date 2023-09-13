@@ -1,6 +1,6 @@
 UNITY: {{
     * [C# ](  https://www.youtube.com/watch?v=SuLiu5AK9Ps )  }
-* [Youtube channel ](https://www.youtube.com/@CodeMonkeyUnity   )
+* [Youtube channel ](https://www.youtube.com/@CodeMonkeyUnity   ) - Code Monkey
 * [If u like reading heres the doc](https://docs.unity.com/)
 
 { Basics sikhne ke baad yha se references le skte ho :
