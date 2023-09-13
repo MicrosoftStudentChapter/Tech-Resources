@@ -37,28 +37,12 @@ This roadmap will guide you through the journey of becoming a proficient mobile 
 ## Cross-Platform App Development
 
 - [ ] **Flutter:** Learn Flutter for building native-quality cross-platform apps.
+    - [Basics of Flutter and dart](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+    - [Flutter with Firebase](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
 - [ ] **React Native:** Explore React Native for JavaScript-based cross-platform app development.
 - [ ] **Xamarin:** Learn Xamarin for .NET-based cross-platform development.
 - [ ] **UI Design Patterns:** Understand common UI patterns for cross-platform apps.
 - [ ] **Native Modules:** Learn how to use native modules for platform-specific functionality.
-
-## Frontend Development
-
-- [ ] **HTML/CSS:** Get a strong foundation in HTML and CSS.
-- [ ] **JavaScript:** Learn JavaScript for dynamic web app development.
-- [ ] **Frontend Frameworks:** Explore frontend frameworks like React, Vue.js, or Angular.
-- [ ] **Responsive Design:** Master responsive web design principles.
-- [ ] **Web Accessibility:** Ensure your web apps are accessible to all users.
-- [ ] **State Management:** Learn state management techniques for web apps.
-
-## Backend Development
-
-- [ ] **Server-Side Language:** Choose a server-side language like Python, Node.js, Ruby, or Java.
-- [ ] **Database:** Learn about databases (SQL and NoSQL) and how to interact with them.
-- [ ] **API Development:** Build RESTful or GraphQL APIs for your mobile apps.
-- [ ] **Authentication and Authorization:** Implement secure user authentication and authorization.
-- [ ] **Server Deployment:** Deploy your server using services like AWS, Heroku, or Firebase.
-- [ ] **API Testing:** Learn how to test your APIs using tools like Postman or Insomnia.
 
 ## Advanced Topics
 
