@@ -18,6 +18,9 @@
 ### [Code with Harry Playlist](https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=7asmARI15cp1C29v)
 ### [Channel for mastering CSS](https://www.youtube.com/@KevinPowell/)
 
+## JS Resources
+1. [Code with Harry JS paylist](https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&si=h3RanQEQbUTckhdb)
+
 # Resources for Backend (Web) Development
 
 These resources compiled by Team MLSC will help aid your backend journey.  
