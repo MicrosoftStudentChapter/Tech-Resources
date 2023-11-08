@@ -16,6 +16,7 @@
 ### [Net Ninja Crash Course](https://youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 ### [Apna college Playlist](https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n&si=NfvGilDAhnkctjv8)
 ### [Code with Harry Playlist](https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=7asmARI15cp1C29v)
+### [Channel for mastering CSS](https://www.youtube.com/@KevinPowell/)
 
 # Resources for Backend (Web) Development
 
