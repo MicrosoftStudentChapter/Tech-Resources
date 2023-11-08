@@ -1,3 +1,22 @@
+# Resources for Frontend (Web) Development
+## HTML Related Resources
+
+1.  [W3SCHOOLS Tutorial on HTML](https://www.w3schools.com/html/)
+2.  [Free Code Camp Responsive Web Design Certification (300 hours)](https://learn.freecodecamp.org/)
+3.  [Traversy Media Crash Course](https://youtu.be/UB1O30fR-EE)
+
+## CSS Related Resources
+
+1.  [W3SCHOOLS Tutorial on CSS](https://www.w3schools.com/css/default.asp)
+2.  [Free Code Camp Responsive Web Design Certification (300 hours)](https://learn.freecodecamp.org/)
+3.  [Traversy Media Crash Course](https://youtu.be/yfoY53QXEnI)
+4.  [Flexbox Tutorial](https://youtu.be/JJSoEo8JSnc)
+
+
+### [Net Ninja Crash Course](https://youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+### [Apna college Playlist](https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n&si=NfvGilDAhnkctjv8)
+### [Code with Harry Playlist](https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=7asmARI15cp1C29v)
+
 # Resources for Backend (Web) Development
 
 These resources compiled by Team MLSC will help aid your backend journey.  
