@@ -1,4 +1,4 @@
-# Techmeet-Resources
+# Tech-Resources
 This repository consists of detailed free resources and roadmaps to kick-start your career in the tech domain!
 
   - [App Development Resources](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/App%20Development%20Resources.md)
