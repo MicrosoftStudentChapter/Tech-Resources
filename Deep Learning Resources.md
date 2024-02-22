@@ -46,7 +46,7 @@
 ### Computer Vision
 
 - [Beginner Friendly OpenCV course](https://youtu.be/oXlwWbU8l2o?si=Va0Y_KXKm0HJBm0s)
-- [Intuitive and brief explanation about working and apllications of OpenCV](https://medium.com/mlearning-ai/computer-vision-fundamentals-and-opencv-overview-9a30fe94f0ce)
+- [Convolution Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/)
 
 
 
