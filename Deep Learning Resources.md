@@ -1,6 +1,6 @@
 # Beginner friendly Deep Learning Resources
 
-## Basics of Neural Networks
+## [Basics of Neural Networks, In Depth Course](https://www.coursera.org/specializations/deep-learning) 
 
 ### Intuition and Maths
 - [Intuitive Explanation of neural networks](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=6WH2ojfjU3NbdtlX)
