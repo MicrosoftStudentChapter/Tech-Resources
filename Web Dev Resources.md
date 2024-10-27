@@ -3,14 +3,16 @@
 
 1.  [W3SCHOOLS Tutorial on HTML](https://www.w3schools.com/html/)
 2.  [Free Code Camp Responsive Web Design Certification (300 hours)](https://learn.freecodecamp.org/)
-3.  [Traversy Media Crash Course](https://youtu.be/UB1O30fR-EE)
+3.  [HTML in one video](https://youtu.be/BsDoLVMnmZs?si=udcHU3V-XS4hrzhF)
+4.  [Traversy Media Crash Course](https://youtu.be/UB1O30fR-EE)
 
 ## CSS Related Resources
 
 1.  [W3SCHOOLS Tutorial on CSS](https://www.w3schools.com/css/default.asp)
 2.  [Free Code Camp Responsive Web Design Certification (300 hours)](https://learn.freecodecamp.org/)
-3.  [Traversy Media Crash Course](https://youtu.be/yfoY53QXEnI)
-4.  [Flexbox Tutorial](https://youtu.be/JJSoEo8JSnc)
+3.  [CSS in one video](https://youtu.be/Edsxf_NBFrw?si=iHkjjvZZxoAQj2W_)
+4.  [Traversy Media Crash Course](https://youtu.be/yfoY53QXEnI)
+5.  [Flexbox Tutorial](https://youtu.be/JJSoEo8JSnc)
 
 
 ### [Net Ninja Crash Course](https://youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
@@ -19,7 +21,12 @@
 ### [Channel for mastering CSS](https://www.youtube.com/@KevinPowell/)
 
 ## JS Resources
-1. [Code with Harry JS paylist](https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&si=h3RanQEQbUTckhdb)
+1. [Code with Harry JS playlist](https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&si=h3RanQEQbUTckhdb)
+
+## React JS Resources
+1. [Documentation](https://react.dev)
+2. [Code with Harry playlist](https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&si=ayGJHSXZDVqhd6Vv)
+3. [Chai aur Code playlist](https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&si=LoC0RShuWf8qHZZH)
 
 # Resources for Backend (Web) Development
 
