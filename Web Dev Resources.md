@@ -21,7 +21,12 @@
 ### [Channel for mastering CSS](https://www.youtube.com/@KevinPowell/)
 
 ## JS Resources
-1. [Code with Harry JS paylist](https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&si=h3RanQEQbUTckhdb)
+1. [Code with Harry JS playlist](https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&si=h3RanQEQbUTckhdb)
+
+## React JS Resources
+1. [Documentation](https://react.dev)
+2. [Code with Harry playlist](https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&si=ayGJHSXZDVqhd6Vv)
+3. [Chai aur Code playlist](https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&si=LoC0RShuWf8qHZZH)
 
 # Resources for Backend (Web) Development
 
