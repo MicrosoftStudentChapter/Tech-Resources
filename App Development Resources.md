@@ -10,6 +10,31 @@ This roadmap will guide you through the journey of becoming a proficient mobile 
 
 ## Mobile Platform-Specific Development
 
+### Resources for Junior Coders Learning Dart and Flutter
+
+#### 1. *Dart Practice Platform*
+   - [Try Dart Online](https://dart.dev/#try-dart): Practice Dart directly in your browser.
+
+#### 2. *Documentation*
+   - [Dart Language Docs](https://dart.dev/language): Official documentation to understand the Dart language.
+   - [Flutter Documentation](https://docs.flutter.dev/): Flutter's official guide covering everything from basic setup to advanced topics.
+   - [Pub.dev - Flutter Packages](https://pub.dev/): Search and find packages to add more functionality to your Flutter app.
+
+#### 3. *Video Tutorials*
+   - [Flutter & Dart Full Course](https://www.youtube.com/watch?v=qB6F0CDr2oM&list=PL9n0l8rSshSlpNWvY4eu_5Oq8l4MRvppT): A complete Flutter tutorial series for beginners.
+   - [Dart Basics](https://www.youtube.com/watch?v=71xacArT_70): Introduction to the Dart language fundamentals.
+   - [Flutter for Beginners](https://youtu.be/CzRQ9mnmh44?si=NRkAAayiBaiPRqqD): A beginner-friendly guide on getting started with Flutter.
+   - [Flutter Stateful Widgets](https://youtu.be/HQ_ytw58tC4?si=j-BnVFgwzdIPqYBN): Understand the concept and use of stateful widgets.
+   - [Flutter Provider Package](https://youtu.be/jYoALeP3eH8?si=2yUVqMwjd0SZeo0R): Learn about Provider, a popular package for state management.
+
+#### 4. *Tips for Improving Flutter Skills*
+   - [Understanding Flutter Project Structure](https://medium.com/@logeshgcp/understanding-the-flutter-project-structure-84de4ec3ce5f): A breakdown of the essential components of a Flutter project.
+   - [Flutter Architectural Overview](https://docs.flutter.dev/resources/architectural-overview): Explore Flutter's architecture to understand how everything fits together.
+   - [Efficient Flutter Development Tips](https://youtu.be/8oIsZEhnqtA?si=WWrcKFWiqaAbIiao): Tips to speed up your Flutter development process.
+   - [Flutter Layout Techniques](https://youtu.be/OcGMK4Pe05k?si=vXOIqCzCGrSQcVBx): Master the basics of layouts in Flutter.
+
+These resources offer a comprehensive start for any junior coder looking to get into Dart and Flutter. Happy coding! 🚀
+
 ### Android App Development
 
 - [ ] **Java/Kotlin Fundamentals:** Get a strong foundation in Java or Kotlin.
