@@ -39,7 +39,7 @@ These resources offer a comprehensive start for any junior coder looking to get 
 
 - [ ] **Java/Kotlin Fundamentals:** Get a strong foundation in Java or Kotlin.
     - [ Java Playlist ](https://youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q&si=tvSgPKVRzk6YvB9V)
-    - [ Kotlin Course ](https://youtu.be/EExSSotojVI?si=tP4d2go1YavMiUb-)
+    - [ Kotlin Course ](https://www.youtube.com/watch?v=blKkRoZPxLc)
 - [ ] **Android Studio:** Learn how to use Android Studio for app development.
 - [ ] **UI/UX Design:** Learn about Android UI/UX design principles.
 - [ ] **Activity and Fragment Lifecycle:** Understand the Android app component lifecycles.
@@ -51,6 +51,7 @@ These resources offer a comprehensive start for any junior coder looking to get 
 ### iOS App Development
 
 - [ ] **Swift Programming:** Learn the Swift programming language.
+    - [Swift OneShot ](https://www.youtube.com/watch?v=b1oC7sLIgpI)
 - [ ] **Xcode:** Familiarize yourself with Xcode, Apple's IDE.
 - [ ] **UIKit:** Understand iOS app development using UIKit.
 - [ ] **Auto Layout:** Learn how to create responsive layouts.
@@ -65,6 +66,7 @@ These resources offer a comprehensive start for any junior coder looking to get 
     - [Basics of Flutter and dart](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
     - [Flutter with Firebase](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
 - [ ] **React Native:** Explore React Native for JavaScript-based cross-platform app development.
+    - [React Native Course](https://www.youtube.com/watch?v=hKxnj1CS1o4)
 - [ ] **Xamarin:** Learn Xamarin for .NET-based cross-platform development.
 - [ ] **UI Design Patterns:** Understand common UI patterns for cross-platform apps.
 - [ ] **Native Modules:** Learn how to use native modules for platform-specific functionality.
