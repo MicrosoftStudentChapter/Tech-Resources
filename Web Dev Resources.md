@@ -23,6 +23,9 @@
 ## JS Resources
 1. [Code with Harry JS playlist](https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&si=h3RanQEQbUTckhdb)
 
+## One Shot For Basics
+1. [HTML,CSS and JS](https://youtu.be/kkOuRJ69BRY?si=K3F9PWrer8G84aaH)
+
 ## React JS Resources
 1. [Documentation](https://react.dev)
 2. [Code with Harry playlist](https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&si=ayGJHSXZDVqhd6Vv)
@@ -31,7 +34,8 @@
 # Resources for Backend (Web) Development
 
 These resources compiled by Team MLSC will help aid your backend journey.  
-`Note: Most of these backend resources are also good for general programming.`  
+`Note: Most of these backend resources are also good for general programming.`
+1.[Sheryians Backend Playlist](https://www.youtube.com/watch?v=T55Kb8rrH1g&list=PLbtI3_MArDOkXRLxdMt1NOMtCS-84ibHH)
 
 Remember to have fun and pace yourself !
 
