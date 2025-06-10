@@ -8,3 +8,4 @@ This repository consists of detailed free resources and roadmaps to kick-start y
   - [Machine Learning Resources](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/Machine%20Learning%20Resources.md)
   - [Cyber Security resources](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/Cyber%20Security%20Resources.md)
   - [DSA Resources](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/DSA%20Resources%20.md)
+  - [DevOps Resources](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/DevOps%20Resources.md)
