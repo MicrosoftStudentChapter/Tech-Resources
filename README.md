@@ -26,14 +26,14 @@ This repository consists of **detailed free resources and roadmaps** to kick-sta
 
 | 🎯 **Domain** | 📖 **Description** | 🔗 **Link** |
 |:-------------:|:------------------:|:-----------:|
-|  **App Development** | Mobile app development resources | [📱 Explore](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/App%20Development%20Resources.md) |
-|  **Web Development** | Full-stack web development guide | [🌐 Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/Web%20Dev%20Resources.md) |
-|  **Deep Learning** | AI and neural networks resources | [🧠 Explore](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/Deep%20Learning%20Resources.md) |
-|  **Game Development** | Game creation and design resources | [🎮 Explore](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/Game%20Development%20Resources.md) |
-|  **Machine Learning** | ML algorithms and implementations | [🤖 Explore](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/Machine%20Learning%20Resources.md) |
-|  **Cyber Security** | Security practices and tools | [🔒 Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/Cyber%20Security%20Resources.md) |
-|  **DSA** | Data Structures & Algorithms | [📊 Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/DSA%20Resources%20.md) |
-|  **DevOps** | Development and Operations | [⚙️ Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/DevOps%20Resources.md) |
+| <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> **App Development** | Mobile app development resources | [📱 Explore](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/App%20Development%20Resources.md) |
+| <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> **Web Development** | Full-stack web development guide | [🌐 Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/Web%20Dev%20Resources.md) |
+| <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> **Deep Learning** | AI and neural networks resources | [🧠 Explore](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/Deep%20Learning%20Resources.md) |
+| <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> **Game Development** | Game creation and design resources | [🎮 Explore](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/Game%20Development%20Resources.md) |
+| <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="30"> **Machine Learning** | ML algorithms and implementations | [🤖 Explore](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/Machine%20Learning%20Resources.md) |
+| <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"> **Cyber Security** | Security practices and tools | [🔒 Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/Cyber%20Security%20Resources.md) |
+| <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> **DSA** | Data Structures & Algorithms | [📊 Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/DSA%20Resources%20.md) |
+| <img src="https://user-images.githubusercontent.com/74038190/212257456-4d8d264c-7e78-4d83-9f4f-7524c70c5e7c.gif" width="30"> **DevOps** | Development and Operations | [⚙️ Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/DevOps%20Resources.md) |
 
 </div>
 
@@ -67,7 +67,7 @@ graph LR
 
 <div align="center">
 
-![Features](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
 
 </div>
 
