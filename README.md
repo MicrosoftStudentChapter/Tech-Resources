@@ -88,17 +88,7 @@ We welcome contributions from the community! Whether it's adding new resources, 
 
 [![GitHub contributors](https://img.shields.io/github/contributors/MicrosoftStudentChapter/Tech-Resources?style=for-the-badge&color=blue)](https://github.com/MicrosoftStudentChapter/Tech-Resources/graphs/contributors)
 
-</div>
 
-## 📊 Repository Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MicrosoftStudentChapter&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MicrosoftStudentChapter&theme=radical" alt="GitHub Streak" />
-
-</div>
 
 ## 🏆 Our Impact
 
