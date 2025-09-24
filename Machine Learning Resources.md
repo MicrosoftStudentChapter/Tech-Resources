@@ -174,13 +174,6 @@ graph TB
 </div>
 
 ### 🧠 Essential ML Concepts
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-
-</div>
-
 - **Supervised vs Unsupervised Learning**
 - **Training, Validation, and Test Sets**
 - **Overfitting and Underfitting**
@@ -241,13 +234,6 @@ graph TB
 | **Transformers** | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | Hugging Face |
 
 ### 🎯 Specialized Areas
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8a166-fcfd7baa4c6b.gif" width="80"> <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"> <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80">
-
-</div>
-
 - **🖼️ Computer Vision** - [OpenCV Tutorial](https://opencv-python-tutroals.readthedocs.io/)
 - **🗣️ Natural Language Processing** - [spaCy Course](https://course.spacy.io/)
 - **🏆 Reinforcement Learning** - [OpenAI Gym](https://gym.openai.com/)
@@ -330,12 +316,6 @@ graph TB
 - **[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)** - Hastie, Tibshirani, Friedman
 
 ### 🌐 **Online Platforms**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"> <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"> <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
-
-</div>
 
 - **[Kaggle](https://www.kaggle.com/learn)** - Competitions + Learning
 - **[Google Colab](https://colab.research.google.com/)** - Free GPU/TPU
