@@ -28,7 +28,7 @@ This repository consists of **detailed free resources and roadmaps** to kick-sta
 |:-------------:|:------------------:|:-----------:|
 **App Development** | Mobile app development resources | [📱 Explore](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/App%20Development%20Resources.md) |
 **Web Development** | Full-stack web development guide | [🌐 Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/Web%20Dev%20Resources.md) |
-**Deep Learning** | AI and neural networks resources | [🧠 Explore](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/Deep%20Learning%20Resources.md) |
+**Deep Learning And AI** | AI and neural networks resources | [🧠 Explore](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/Deep%20Learning%20And%20AI%20Resources.md) |
 **Game Development** | Game creation and design resources | [🎮 Explore](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/Game%20Development%20Resources.md) |
 **Machine Learning** | ML algorithms and implementations | [🤖 Explore](https://github.com/MicrosoftStudentChapter/Techmeet-Resources/blob/main/Machine%20Learning%20Resources.md) |
 **Cyber Security** | Security practices and tools | [🔒 Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/Cyber%20Security%20Resources.md) |
