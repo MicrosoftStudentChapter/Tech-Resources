@@ -34,7 +34,7 @@ This repository consists of **detailed free resources and roadmaps** to kick-sta
 **Cyber Security** | Security practices and tools | [🔒 Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/Cyber%20Security%20Resources.md) |
 **DSA** | Data Structures & Algorithms | [📊 Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/DSA%20Resources%20.md) |
 **DevOps** | Development and Operations | [⚙️ Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/DevOps%20Resources.md) |
-
+**AI** | Artificial Intelligence | [⚙️ Explore](https://github.com/MicrosoftStudentChapter/Tech-Resources/blob/main/AI%20resources.md) |
 </div>
 
 ## 🎯 Quick Navigation
