@@ -127,7 +127,7 @@ graph LR
 ### 🔗 LangChain Core Concepts
 
 #### 🎯 Essential LangChain Components
-- [ ] **📚 [Complete LangChain Tutorial Series](https://youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL&si=K4voWwwMHweZRBHY)**
+- [ ] **📚 [Complete LangChain Tutorial Series](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&si=-fbbQb7-U3rvDTo4)**
   - LangChain fundamentals and architecture
   - Chains, agents, and tools integration
   - Memory management and conversation handling
@@ -201,7 +201,7 @@ qa_chain = RetrievalQA.from_chain_type(
 ### 🌟 LangGraph Architecture Revolution
 
 #### 🎯 Graph-Based AI Systems
-- [ ] **📚 [Complete LangGraph Mastery Course](https://youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&si=-fbbQb7-U3rvDTo4)**
+- [ ] **📚 [Complete LangGraph Mastery Course](https://youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL&si=K4voWwwMHweZRBHY)**
   - State machines for AI workflows
   - Complex multi-agent orchestration
   - Conditional routing and decision trees
